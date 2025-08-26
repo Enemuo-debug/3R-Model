@@ -1,0 +1,6 @@
+@NiRAProject_HostAddress = http://localhost:5126
+
+GET {{NiRAProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
